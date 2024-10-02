@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Bench2 from './Bench'; // This should now work correctly
 
 function App() {
   return (
@@ -18,6 +19,9 @@ function App() {
           Learn React
         </a>
       </header>
+      <main>
+        <Bench2 />  
+      </main>
     </div>
   );
 }

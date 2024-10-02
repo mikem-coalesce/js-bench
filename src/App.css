@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.bench {
+  text-align: center;
+  margin: 20px;
+}
+
+.bench button {
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.bench p {
+  font-size: 18px;
+  color: #61dafb;
+}
